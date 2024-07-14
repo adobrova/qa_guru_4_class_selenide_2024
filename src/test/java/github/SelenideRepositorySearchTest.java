@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 import static com.codeborne.selenide.Configuration.baseUrl;
 import static com.codeborne.selenide.Selenide.*;
 
-public class SelenideRepositorySearch {
+public class SelenideRepositorySearchTest {
 
     @BeforeAll
     static void beforeAll(){
